@@ -1,6 +1,12 @@
+<h1 align="center">Hey 👋, I'm Abdullah Al - Mamun</h1>
+
+<hr/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Abdullah%20Al%20-%20Mamun&fontSize=38&fontColor=ffffff&desc=Learning%20Web%20Development&descAlignY=75&descSize=18&descColor=8A63F2&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=8A63F2&center=true&vCenter=true&width=435&lines=Learning+Web+Development" alt="Typing SVG"/>
 </p>
+
+<hr/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react&theme=dark&perline=6" alt="Skills Banner"/>
