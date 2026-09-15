@@ -2,6 +2,16 @@
   <img src="banner.png" alt="Abdullah Al Mamun Banner" width="100%"/>
 </p>
 
+<h1 align="center">Hey 👋, I'm Abdullah Al - Mamun</h1>
+
+<hr/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=8A63F2&center=true&vCenter=true&width=435&lines=Learning+Web+Development" alt="Typing SVG"/>
+</p>
+
+<hr/>
+
 ---
 
 ### 👤 About Me
@@ -54,7 +64,7 @@ Currently, I'm focused on strengthening my fundamentals and building a solid fou
 
 ### 🚀 Featured Project
 
-**🌐 Frontend Project**
+**🌐 Frontend Project **
 
 A responsive frontend website built as part of my Web Development learning journey.
 
