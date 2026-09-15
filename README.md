@@ -1,15 +1,5 @@
-<h1 align="center">Hey 👋, I'm Abdullah Al - Mamun</h1>
-
-<hr/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=8A63F2&center=true&vCenter=true&width=435&lines=Learning+Web+Development" alt="Typing SVG"/>
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react&theme=dark&perline=6" alt="Skills Banner"/>
+  <img src="banner.png" alt="Abdullah Al Mamun Banner" width="100%"/>
 </p>
 
 ---
