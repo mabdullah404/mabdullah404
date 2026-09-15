@@ -1,20 +1,9 @@
-<h1 align="center">Hey 👋, I'm Abdullah Al - Mamun</h1>
-
-<hr/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=8A63F2&center=true&vCenter=true&width=435&lines=Learning+Web+Development" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Abdullah%20Al%20-%20Mamun&fontSize=38&fontColor=ffffff&desc=Learning%20Web%20Development&descAlignY=75&descSize=18&descColor=8A63F2&animation=fadeIn" alt="Header Banner"/>
 </p>
 
-<hr/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react&theme=dark&perline=6" alt="Skills Banner"/>
 </p>
 
 ---
