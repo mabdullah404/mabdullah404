@@ -105,7 +105,9 @@ A responsive frontend website built as part of my Web Development learning journ
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mabdullah404&theme=radical)
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mabdullah404&theme=radical)
 
 ---
 
