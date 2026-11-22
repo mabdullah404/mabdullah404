@@ -76,42 +76,77 @@ I love building performant, accessible, and user-centric web applications. My da
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Production & Featured Projects
 
-#### 1. ⚽ [Football Prediction Platform](https://github.com/mabdullah404/football_prediction-platform)
-> An interactive sports web application where users predict football match outcomes, track upcoming fixtures, and review dynamic leaderboards.
-- **Tech Stack:** React, JavaScript, Tailwind CSS, REST APIs, Vercel.
-- **Key Highlights:** Real-time match data, interactive prediction voting, responsive sports UI, and live standings.
-- 🔗 **[Live Demo](https://football-prediction-platform-neon.vercel.app)** • 💻 **[GitHub Repo](https://github.com/mabdullah404/football_prediction-platform)**
+<table>
+  <!-- Row 1: Football Prediction & CivicPulse -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ Football Prediction Platform</h3>
+      <p>An interactive sports platform allowing users to predict football match outcomes, track upcoming fixtures, and review dynamic leaderboards.</p>
+      <p><b>Tech:</b> JavaScript, React, Tailwind CSS, REST APIs, Vercel</p>
+      <p>
+        <a href="https://football-prediction-platform-neon.vercel.app" target="_blank"><b>🔗 Live Application</b></a> • 
+        <a href="https://github.com/mabdullah404/football_prediction-platform" target="_blank"><b>💻 GitHub Repo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 CivicPulse — Volunteer Action Network</h3>
+      <p>A full-stack community development hub enabling conscious citizens to publish, join, and coordinate local social impact drives.</p>
+      <p><b>Tech:</b> Next.js 16, React 19, Express, MongoDB, Better Auth, Tailwind CSS</p>
+      <p>
+        <a href="https://social-development-platform.vercel.app" target="_blank"><b>🔗 Live Application</b></a> • 
+        <a href="https://github.com/mabdullah404/social_devlopment_platform" target="_blank"><b>💻 Client</b></a> • 
+        <a href="https://github.com/mabdullah404/server_social_development" target="_blank"><b>⚙️ Server</b></a>
+      </p>
+    </td>
+  </tr>
 
-#### 2. 🌟 [CivicPulse — Grassroots Action & Volunteer Network](https://github.com/mabdullah404/social_devlopment_platform)
-> A full-stack community development and social drive platform where conscious citizens create, discover, and join verified local initiatives (winter relief, blood donation, city cleanup, tree plantation).
-- **Tech Stack:** Next.js 16, React 19, Express.js, MongoDB, BetterAuth (Google OAuth + Credentials), Tailwind CSS v4, DaisyUI.
-- **Key Highlights:** Strict future-date validation, real-time volunteer enrollment tracking, private organizer dashboard, multi-parameter causes filter, and responsive UI.
-- 🔗 **[Live Demo](https://social-development-platform.vercel.app)** • 💻 **[Client Repo](https://github.com/mabdullah404/social_devlopment_platform)** • ⚙️ **[Server Repo](https://github.com/mabdullah404/server_social_development)**
+  <!-- Row 2: PizzaHub & Frameora -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍕 PizzaHub — Food Ordering Platform</h3>
+      <p>A full-stack culinary storefront with instant cart calculation, menu filtering, and custom order state management.</p>
+      <p><b>Tech:</b> React, Node.js, Express.js, MongoDB, Tailwind CSS</p>
+      <p>
+        <a href="https://pizzahub-client-tan.vercel.app" target="_blank"><b>🔗 Live Application</b></a> • 
+        <a href="https://github.com/mabdullah404/pizzahub-client" target="_blank"><b>💻 Client</b></a> • 
+        <a href="https://github.com/mabdullah404/pizzahub-server" target="_blank"><b>⚙️ Server</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ Frameora — Visual Showcase Gallery</h3>
+      <p>A high-performance interactive gallery featuring masonry media grids, category filtering, and modal viewer previews.</p>
+      <p><b>Tech:</b> React, JavaScript, Tailwind CSS, Vercel</p>
+      <p>
+        <a href="https://frameora-delta.vercel.app" target="_blank"><b>🔗 Live Application</b></a> • 
+        <a href="https://github.com/mabdullah404/Frameora" target="_blank"><b>💻 GitHub Repo</b></a>
+      </p>
+    </td>
+  </tr>
 
-#### 3. 🍕 [PizzaHub — Food Ordering Platform](https://github.com/mabdullah404/pizzahub-client)
-> A responsive full-stack food delivery web application with item customization, dynamic cart calculation, and order tracking.
-- **Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS.
-- **Key Highlights:** Dynamic menu filtering, real-time cart state management, and streamlined checkout flow.
-- 🔗 **[Live Demo](https://pizzahub-client-tan.vercel.app)** • 💻 **[Client Repo](https://github.com/mabdullah404/pizzahub-client)** • ⚙️ **[Server Repo](https://github.com/mabdullah404/pizzahub-server)**
-
-#### 4. 🖼️ [Frameora — Modern Photo Gallery](https://github.com/mabdullah404/Frameora)
-> An interactive, responsive photo gallery platform featuring fluid masonry grids, category tagging, and modal previews.
-- **Tech Stack:** React, JavaScript, Tailwind CSS, Vercel.
-- **Key Highlights:** Fast media searching, modal previews, and responsive grid layout.
-- 🔗 **[Live Demo](https://frameora-delta.vercel.app)** • 💻 **[GitHub Repo](https://github.com/mabdullah404/Frameora)**
-
-#### 5. ⚡ [Personal Developer Portfolio](https://github.com/mabdullah404/personal-portfolio)
-> A modern developer portfolio showcasing software engineering projects, technical skills, and educational background.
-- **Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4.
-- **Key Highlights:** Smooth micro-interactions, responsive obsidian & white card layout, persistent light/dark mode, and dynamic project filtering.
-- 🔗 **[Live Demo](https://personal-portfolio-green-one-68.vercel.app/)** • 💻 **[GitHub Repo](https://github.com/mabdullah404/personal-portfolio)**
-
-#### 6. 🛒 [Bazar Dor — Commodity Market Price Tracker](https://github.com/mabdullah404/bazar-dor-project)
-> A web application designed to track and display daily essential commodity and grocery market rates across local markets in Bangladesh.
-- **Tech Stack:** React, JavaScript, Tailwind CSS, REST API integration.
-- 🔗 **[Live Demo](https://bazar-dor-project-omega.vercel.app/)** • 💻 **[GitHub Repo](https://github.com/mabdullah404/bazar-dor-project)**
+  <!-- Row 3: Personal Portfolio & Bazar Dor -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Personal Developer Portfolio</h3>
+      <p>An obsidian & white themed personal engineering website featuring interactive cards, light/dark mode, and project showcases.</p>
+      <p><b>Tech:</b> Next.js 16, React 19, TypeScript, Tailwind CSS v4</p>
+      <p>
+        <a href="https://personal-portfolio-green-one-68.vercel.app/" target="_blank"><b>🔗 Live Application</b></a> • 
+        <a href="https://github.com/mabdullah404/personal-portfolio" target="_blank"><b>💻 GitHub Repo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Bazar Dor — Commodity Price Tracker</h3>
+      <p>A localized essential grocery and market commodity price tracker designed for daily budget monitoring.</p>
+      <p><b>Tech:</b> React, JavaScript, Tailwind CSS, REST APIs</p>
+      <p>
+        <a href="https://bazar-dor-project-omega.vercel.app/" target="_blank"><b>🔗 Live Application</b></a> • 
+        <a href="https://github.com/mabdullah404/bazar-dor-project" target="_blank"><b>💻 GitHub Repo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
